@@ -4,9 +4,7 @@
         class="wrapper-category"
         
         >
-        <Category>
-            Все
-        </Category>
+
             <Category
           
             v-for="category in categories"
